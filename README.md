@@ -1,4 +1,4 @@
-# ChronosDet — VLDB Artifact
+# ChronosDet
 
 > Draft scaffold. Code, datasets, dependencies, and reproduction commands are
 > not packaged yet. All TODO items must be completed before submission.
